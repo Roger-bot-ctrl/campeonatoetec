@@ -141,6 +141,17 @@ h2:last-of-type {
 
     li {
         font-size: 15px;
+        
     }
-
+.botao-inscricao {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #ff0000;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid #ff0000;
+    border-radius: 8px;
 }
